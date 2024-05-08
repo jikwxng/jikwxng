@@ -14,5 +14,5 @@ I am <strong>Vanilla</strong>, a <strong>JavaScript</strong> and <strong>TypeScr
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white" alt="CSS"/>
   </p>
 <br/>
-  <span style="font-size: 2px; color: #171717;">&#169; 2024. Nilla. all rights reserved.</span>
+  <span style="font-size: 2px; color: #171717;">&#169; 2024. Nilla. All Rights reserved.</span>
 </div>
