@@ -1,3 +1,4 @@
+<body style="background-color:#fff">
 <div align="center">
 <br>
 <h1>👋 반갑습니다! </h1>
@@ -16,3 +17,4 @@ I am <strong>Vanilla</strong>, a <strong>JavaScript</strong> and <strong>TypeScr
 <br/>
   <span style="font-size: 2px; color: #171717;">&#169; 2024. Nilla. All Rights reserved.</span>
 </div>
+</body>
