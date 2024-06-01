@@ -3,7 +3,7 @@
 <br>
 <h1>👋 반갑습니다! </h1>
 <p><strong>프론트엔드 </strong>&<strong> 백엔드</strong> 학생 개발자 <strong>바닐라</strong>입니다.</p>
-I am <strong>Vanilla</strong>, a <strong></strong>Frontend </strong>&<strong> Backend</strong> student developer.
+I am <strong>Vanilla</strong>, a <strong>Frontend </strong>&<strong> Backend</strong> student developer.
 
 <br/>
 
