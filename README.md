@@ -19,7 +19,7 @@ I am <strong>Vanilla</strong>, a <strong>JavaScript</strong> and <strong>TypeScr
     <img src="https://img.shields.io/badge/DISCORD-7289da?style=for-the-badge&logo=DISCORD&logoColor=white" alt="DISCORD"/>
     </a>
     <a href="mailto:xlatmxpffk@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-7289da?style=for-the-badge&logo=EMAILD&logoColor=white" alt="EMAIL"/>
+    <img src="https://img.shields.io/badge/MAIL-7289da?style=for-the-badge&logo=MAILD&logoColor=white" alt="EMAIL"/>
     </a>
   </p>
 <br/>
