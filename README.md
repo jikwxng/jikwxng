@@ -14,8 +14,10 @@ I am <strong>Vanilla</strong>, a <strong>JavaScript</strong> and <strong>TypeScr
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" alt="HTML5"/>
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white" alt="CSS"/>
     <br>
+    <h3>🌐 Contact.. 🌐</h3>
+    <a href="https://discord.gg/NTZj5Xuq3S">
     <img src="https://img.shields.io/badge/DISCORD-7289da?style=for-the-badge&logo=DISCORD&logoColor=white" alt="DISCORD"/>
-    <img src="https://img.shields.io/badge/TOSS-1572B6?style=for-the-badge&logo=TOSS&logoColor=white" alt="CSS"/>
+    </a>
   </p>
 <br/>
   <span style="font-size: 2px; color: #171717;">&#169; 2024. Nilla. All Rights reserved.</span>
