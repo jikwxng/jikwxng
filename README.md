@@ -15,10 +15,9 @@ I am <strong>Nilla</strong>, a <strong>Frontend </strong>&<strong> Backend</stro
     <br>
     <h3>🌐 Contact.. 🌐</h3>
     <a href="mailto:jeeks46094@gmail.com">
-    <img src="https://img.shields.io/badge/Email-7289da?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/>
+    <img src="https://img.shields.io/badge/Email-c71610?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/>
     </a>
   </p>
 <br/>
-  <span style="font-size: 2px; color: #171717;">&#169; 2024. Nilla. All Rights reserved.</span>
 </div>
 </body>
