@@ -2,7 +2,7 @@
 <div align="center">
 <br>
 <h1>👋 반갑습니다! </h1>
-<p><strong>프론트엔드 </strong>&<strong> 백엔드</strong> 학생 개발자 <strong>닐라</strong>입니다.</p>
+<p><strong>프론트엔드 </strong>&<strong> 백엔드</strong> 학생 개발자 <strong>JEEK</strong>입니다.</p>
 I am <strong>Nilla</strong>, a <strong>Frontend </strong>&<strong> Backend</strong> student developer.
 
 <br/>
