@@ -14,8 +14,8 @@ I am <strong>Nilla</strong>, a <strong>Frontend </strong>&<strong> Backend</stro
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white" alt="CSS"/>
     <br>
     <h3>🌐 Contact.. 🌐</h3>
-    <a href="https://discord.gg/NTZj5Xuq3S">
-    <img src="https://img.shields.io/badge/-Email-7289da?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/>
+    <a href="mailto:jeeks46094@gmail.com">
+    <img src="https://img.shields.io/badge/Email-7289da?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/>
     </a>
   </p>
 <br/>
