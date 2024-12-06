@@ -15,7 +15,7 @@ I am <strong>Nilla</strong>, a <strong>Frontend </strong>&<strong> Backend</stro
     <br>
     <h3>🌐 Contact.. 🌐</h3>
     <a href="https://discord.gg/NTZj5Xuq3S">
-    <img src="https://img.shields.io/badge/DISCORD-7289da?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/>
+    <img src="https://img.shields.io/badge/E-mail-7289da?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/>
     </a>
   </p>
 <br/>
