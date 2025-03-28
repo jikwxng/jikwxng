@@ -11,8 +11,11 @@
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white" alt="CSS"/>
     <br>
     <h3>🌐 Contact.. 🌐</h3>
-    <a href="mailto:jeeks46094@gmail.com">
+    <a href="mailto:me@jeeks.me">
     <img src="https://img.shields.io/badge/Email-c71610?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/>
+    </a>
+     <a href="https://jeeks.me">
+    <img src="https://img.shields.io/badge/웹사이트-white?style=for-the-badge" alt="website"/>
     </a>
   </p>
 <br/>
