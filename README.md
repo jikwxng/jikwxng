@@ -34,6 +34,6 @@
 
 ### 📫 Contact Me
 <p align="left">
-  <a href="https://jeeks.my"><img src="https://img.shields.io/badge/Website-jeeks.my-34A853?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
+  <a href="https://jeeks.my"><img src="https://img.shields.io/badge/jeeks.my-34A853?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
   <a href="https://www.instagram.com/9w6n9"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"></a>
 </p>
