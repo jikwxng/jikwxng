@@ -1,39 +1,54 @@
-# 👋 안녕하세요, 최지광입니다!
+# Hi there, I'm @jikwxng 👋
 
-### 🛠 Tech Stack
-
-<!-- 기술 스택 아이콘들 -->
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-</p>
-
----
-
-### 📊 My Stats
-
-<!-- 깃허브 주요 언어 및 스탯 카드 -->
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jikwxng&layout=compact&theme=radical&hide_border=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=jikwxng&show_icons=true&theme=radical&hide_border=true" />
+  <a href="https://jeeks.my">
+    <img src="https://img.shields.io/badge/Website-jeeks.my-black?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="mailto:me@jeeks.my">
+    <img src="https://img.shields.io/badge/Email-me@jeeks.my-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-### 🏫 Experience
-- 🛡 **메이커스(Makers)** 차장 (2026.03 ~ 현재)
-- 🛠 **메이커스(Makers)** 팀장 (2025.03 ~ 2026.02)
-
-### 💻 Working On
-- 📱 **HiSchool** - 학생들을 위한 학교 생활 도우미 앱 개발 중
-- 🤖 **Flame Labs & Shop** - 디스코드 봇 및 웹 서비스 제작/운영
+## 💫 About Me
+- 💻 **Software Developer** passionately building web applications and automation tools.
+- 🛠️ Always exploring new technologies and optimizing performance.
+- 🚀 Focused on clean code, solid architecture, and user-friendly experiences.
 
 ---
 
-### 📫 Contact Me
+## 🛠️ Tech Stack
+> 여기에 사용하는 기술 스택 아이콘이나 텍스트를 채워 넣어 보세요!
+
+### Frontend & Backend
+### Tools & Deployment
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jikwxng&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="jikwxng's GitHub stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jikwxng&layout=compact&theme=dark&langs_count=6" alt="Top Langs" height="180px" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jikwxng&theme=dark" alt="GitHub Streak" />
+</p>
+
+---
+
+## 📬 Connect with Me
 <p align="left">
-  <a href="https://jeeks.my"><img src="https://img.shields.io/badge/jeeks.my-34A853?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
-  <a href="https://www.instagram.com/9w6n9"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+  <a href="https://jeeks.my" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=About.me&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:me@jeeks.my">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
+
+---
+<p align="center">
+  평범함을 거부하고, 언제나 한 단계 더 나아간 코드를 고민합니다.
 </p>
