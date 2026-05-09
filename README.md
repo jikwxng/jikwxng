@@ -4,7 +4,7 @@
  <div align="center">
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" width="45" title="JavaScript">
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg" width="45" title="TypeScript">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python.svg" width="45" title="Python">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" width="45" title="Python">
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/C.svg" width="45" title="C">
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Dark.svg" width="45" title="Node.js">
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" width="45" title="React">
