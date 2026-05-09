@@ -1,42 +1,9 @@
 <div align="center">
-
-  <!-- 전체 컨테이너: 최대 너비를 설정하고 중앙 정렬 -->
-  <div style="max-width: 800px; display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-
-    <!-- Languages -->
-    <div style="flex: 1; min-width: 200px; padding: 10px;">
-      <h4 style="margin-bottom: 12px;">Languages</h4>
-      <div style="display: flex; justify-content: center; gap: 10px;">
-        <img src="https://skillicons.dev/icons?i=c,py,js,ts" height="40">
-      </div>
-    </div>
-
-    <!-- Frontend -->
-    <div style="flex: 1; min-width: 200px; padding: 10px;">
-      <h4 style="margin-bottom: 12px;">Frontend</h4>
-      <div style="display: flex; justify-content: center; gap: 10px;">
-        <img src="https://skillicons.dev/icons?i=html,css,react,tailwind" height="40">
-      </div>
-    </div>
-
-    <!-- Backend -->
-    <div style="flex: 1; min-width: 200px; padding: 10px;">
-      <h4 style="margin-bottom: 12px;">Backend</h4>
-      <div style="display: flex; justify-content: center; gap: 10px;">
-        <img src="https://skillicons.dev/icons?i=nodejs,express,discordjs" height="40">
-      </div>
-    </div>
-
-    <!-- Database & Deployment (한 줄에 배치하거나 유동적으로 조절) -->
-    <div style="flex: 1; min-width: 200px; padding: 10px;">
-      <h4 style="margin-bottom: 12px;">Database & Deployment</h4>
-      <div style="display: flex; justify-content: center; gap: 10px;">
-        <img src="https://skillicons.dev/icons?i=mongodb,vercel,netlify" height="40">
-      </div>
-    </div>
-
-  </div>
-
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg" width="45" title="TypeScript">
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" width="45" title="React">
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Dark.svg" width="45" title="Node.js">
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MongoDB.svg" width="45" title="MongoDB">
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Vercel-Dark.svg" width="45" title="Vercel">
 </div>
 
 <!--START_SECTION:waka-->
