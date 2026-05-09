@@ -1,6 +1,7 @@
 <div align="center" style="margin-bottom: 10px">
  <img src="https://github-readme-stats-navy-iota-50.vercel.app/api?username=jikwxng&show_icons=true&count_private=true&theme=github_dark_dimmed&show=reviews,prs_merged">
 </div>
+
 <div align="center">
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" width="45" title="JavaScript">
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg" width="45" title="TypeScript">
