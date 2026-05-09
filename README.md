@@ -1,5 +1,9 @@
-<h1 align="center">안녕하세요!</h1>
+<div align="center" style="margin-bottom: 5px">
+ 
+<h1>안녕하세요!</h1>
+ 
 개발자 최지광입니다.
+</div>
 
 <div align="center" style="margin-bottom: 5px">
  <h2>Status</h2>
