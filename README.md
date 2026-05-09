@@ -1,41 +1,43 @@
 <div align="center">
 
-  <!-- Languages -->
-  <div style="display: inline-block; vertical-align: top; margin: 0 20px;">
-    <h4>Languages</h4>
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/C.svg" width="35">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Python-Dark.svg" width="35">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/JavaScript.svg" width="35">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/TypeScript.svg" width="35">
+  <!-- 1st Row: Languages & Frontend -->
+  <div style="display: flex; justify-content: center; gap: 5%;">
+    <div style="width: 40%;">
+      <h4>Languages</h4>
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/C.svg" width="35">
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Python-Dark.svg" width="35">
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/JavaScript.svg" width="35">
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/TypeScript.svg" width="35">
+    </div>
+    <div style="width: 40%;">
+      <h4>Frontend</h4>
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/HTML.svg" width="35">
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/CSS.svg" width="35">
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/React-Dark.svg" width="35">
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/TailwindCSS-Dark.svg" width="35">
+    </div>
   </div>
 
-  <!-- Frontend -->
-  <div style="display: inline-block; vertical-align: top; margin: 0 20px;">
-    <h4>Frontend</h4>
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/HTML.svg" width="35">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/CSS.svg" width="35">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/React-Dark.svg" width="35">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/TailwindCSS-Dark.svg" width="35">
+  <br/>
+
+  <!-- 2nd Row: Backend & Database -->
+  <div style="display: flex; justify-content: center; gap: 5%;">
+    <div style="width: 40%;">
+      <h4>Backend</h4>
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/NodeJS-Dark.svg" width="35">
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/ExpressJS-Dark.svg" width="35">
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/DiscordJS-Dark.svg" width="35">
+    </div>
+    <div style="width: 40%;">
+      <h4>Database</h4>
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/MongoDB.svg" width="35">
+    </div>
   </div>
 
-  <!-- Backend -->
-  <div style="display: inline-block; vertical-align: top; margin: 0 20px;">
-    <h4>Backend</h4>
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/NodeJS-Dark.svg" width="35">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/ExpressJS-Dark.svg" width="35">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/DiscordJS-Dark.svg" width="35">
-  </div>
+  <br/>
 
-  <br><br>
-
-  <!-- Database -->
-  <div style="display: inline-block; vertical-align: top; margin: 0 20px;">
-    <h4>Database</h4>
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/MongoDB.svg" width="35">
-  </div>
-
-  <!-- Deployment -->
-  <div style="display: inline-block; vertical-align: top; margin: 0 20px;">
+  <!-- 3rd Row: Deployment (Centered) -->
+  <div style="width: 100%;">
     <h4>Deployment</h4>
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Vercel-Dark.svg" width="35">
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Netlify-Dark.svg" width="35">
