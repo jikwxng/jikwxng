@@ -1,6 +1,21 @@
 <p align="center">
   <img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/HTMLCSS.png?raw=true" width="100">
 </p>
+<p align="center">
+  <img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/JavaScript.png?raw=true" width="100">
+</p>
+<p align="center">
+  <img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/NodeJS.png?raw=true" width="100">
+</p>
+<p align="center">
+  <img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/Axios.png?raw=true" width="100">
+</p>
+<p align="center">
+  <img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/ExpressJS.png?raw=true" width="100">
+</p>
+<p align="center">
+  <img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/MongoDB.png?raw=true" width="100">
+</p>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-11%20hrs%2047%20mins-blue?style=flat)
