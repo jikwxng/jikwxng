@@ -1,14 +1,41 @@
 <div align="center">
-  <img src="https://github-readme-stats-navy-iota-50.vercel.app/api?username=jikwxng&show_icons=true&count_private=true&show=reviews,prs_merged">
+  <img src="https://github-readme-stats-navy-iota-50.vercel.app/api?username=jikwxng&show_icons=true&count_private=true&theme=github_dark_dimmed&show=reviews,prs_merged">
 </div>
 
-<div align="center" style="margin-bottom: 45px;">
-  <img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/HTMLCSS.png?raw=true" width="130">
-  <img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/JavaScript.png?raw=true" width="130">
-  <img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/NodeJS.png?raw=true" width="130">
-  <img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/Axios.png?raw=true" width="130">
-  <img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/ExpressJS.png?raw=true" width="130">
-  <img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/MongoDB.png?raw=true" width="130">
+## Tech Stack
+
+### Languages
+<div align="left">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/JavaScript.svg" width="100" title="JavaScript">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/TypeScript.svg" width="100" title="TypeScript">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Python-Dark.svg" width="100" title="Python">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/C.svg" width="100" title="C">
+</div>
+
+### Frontend
+<div align="left">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/React-Dark.svg" width="100" title="React">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/TailwindCSS-Dark.svg" width="100" title="Tailwind CSS">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/HTML.svg" width="100" title="HTML5">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/CSS.svg" width="100" title="CSS3">
+</div>
+
+### Backend
+<div align="left">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/NodeJS-Dark.svg" width="100" title="Node.js">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/ExpressJS-Dark.svg" width="100" title="Express">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/DiscordJS-Dark.svg" width="100" title="Discord.js">
+</div>
+
+### Database
+<div align="left">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/MongoDB.svg" width="100" title="MongoDB">
+</div>
+
+### Deployment
+<div align="left">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Vercel-Dark.svg" width="100" title="Vercel">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Netlify-Dark.svg" width="100" title="Netlify">
 </div>
 
 <!--START_SECTION:waka-->
