@@ -1,4 +1,6 @@
-![HTMLCSS](https://github.com/yewon-Noh/readme-template/blob/main/skills/HTMLCSS.png?raw=true)
+<p align="center">
+  <img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/HTMLCSS.png?raw=true" width="100">
+</p>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-11%20hrs%2047%20mins-blue?style=flat)
