@@ -1,10 +1,8 @@
 <div align="center" style="margin-bottom: 5px">
  <img src="https://github-readme-stats-navy-iota-50.vercel.app/api?username=jikwxng&show_icons=true&count_private=true&theme=github_dark_dimmed&show=reviews,prs_merged">
 </div>
-
- ### Skills
-
 <div align="center" style="margin-bottom: 20px">
+ <h1>Skills</h1>
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" width="40" title="JavaScript">
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg" width="40" title="TypeScript">
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" width="40"  title="Python">
