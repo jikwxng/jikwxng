@@ -1,3 +1,5 @@
+<h1 align="center">안녕하세요!</h1>
+
 <div align="center" style="margin-bottom: 5px">
  <h2>Status</h2>
  <img src="https://github-readme-stats-navy-iota-50.vercel.app/api?username=jikwxng&show_icons=true&count_private=true&theme=github_dark_dimmed&show=reviews,prs_merged">
