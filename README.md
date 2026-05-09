@@ -2,7 +2,9 @@
  
 <h1>안녕하세요!</h1>
  
-개발자 최지광입니다.
+<h2>개발자 최지광입니다.</h2>
+>>> 현재 고등학교를 재학중이에요.
+https://jeeks.my
 </div>
 
 <div align="center" style="margin-bottom: 5px">
