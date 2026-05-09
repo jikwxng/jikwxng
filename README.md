@@ -2,7 +2,6 @@
 > 현재 고등학교에 재학하며 세상을 바꾸는 코드를 씁니다
 
 <br/>
-<br/>
 
 ## 📊 Quick Stats
 <img src="https://github-readme-stats-navy-iota-50.vercel.app/api?username=jikwxng&show_icons=true&count_private=true&theme=github_dark_dimmed&show=reviews,prs_merged&hide_border=true">
