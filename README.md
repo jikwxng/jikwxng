@@ -1,16 +1,17 @@
 <div align="center">
  <img src="https://github-readme-stats-navy-iota-50.vercel.app/api?username=jikwxng&show_icons=true&count_private=true&theme=github_dark_dimmed&show=reviews,prs_merged">
 </div>
- <div align="center">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" width="45" title="JavaScript">
+<div align="center">
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" width="45" title="JavaScript">
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg" width="45" title="TypeScript">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" width="45" title="Python">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Dark.svg" width="45" title="Node.js">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/ExpressJS-Dark.svg" width="45" title="ExpressJS">
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" width="45" title="Python">
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Dark.svg" width="45" title="Node.js">
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/ExpressJS-Dark.svg" width="45" title="ExpressJS">
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" width="45" title="React">
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Vite-Dark.svg" width="45" title="Vite">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TailwindCSS-Dark.svg" width="45" title="TailwindCSS">
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TailwindCSS-Dark.svg" width="45" title="TailwindCSS">
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MongoDB.svg" width="45" title="MongoDB">
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Vercel-Dark.svg" width="45" title="Vercel">
 </div>
 
 <!--START_SECTION:waka-->
