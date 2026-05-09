@@ -1,3 +1,4 @@
+![Anurag's GitHub stats](https://github-readme-stats-navy-iota-50.vercel.app/api?username=jikwxng&show_icons=true&count_private=true&show=reviews,prs_merged)
 <div align="center" style="margin-bottom: 45px;">
   <img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/HTMLCSS.png?raw=true" width="130">
   <img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/JavaScript.png?raw=true" width="130">
