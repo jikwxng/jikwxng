@@ -1,32 +1,24 @@
-<div align="center" style="margin-bottom: 5px">
- 
-<h1>안녕하세요!</h1>
- 
-<h2>개발자 최지광입니다.</h2>
->>> 현재 고등학교를 재학중이에요.
-https://jeeks.my
-</div>
-
-<div align="center" style="margin-bottom: 5px">
- <h2>Status</h2>
- <img src="https://github-readme-stats-navy-iota-50.vercel.app/api?username=jikwxng&show_icons=true&count_private=true&theme=github_dark_dimmed&show=reviews,prs_merged">
-</div>
-<div align="center" style="margin-bottom: 20px">
- <h2>Skills</h2>
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" width="40" title="JavaScript">
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg" width="40" title="TypeScript">
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" width="40"  title="Python">
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Dark.svg" width="40"  title="Node.js">
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/ExpressJS-Dark.svg" width="40" title="ExpressJS">
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" width="40"  title="React">
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Vite-Dark.svg" width="40" title="Vite">
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TailwindCSS-Dark.svg" width="40"  title="TailwindCSS">
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MongoDB.svg" width="40"  title="MongoDB">
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Vercel-Dark.svg" width="40" title="Vercel">
-</div>
-
 <div align="center">
-<h2>Coding Time</h2>
+
+# 👋 안녕하세요, 최지광입니다!
+
+> **현재 고등학교에 재학하며 세상을 바꾸는 코드를 씁니다.**
+> [jeeks.my](https://jeeks.my)
+
+<br/>
+
+## 📊 Quick Stats
+<img src="https://github-readme-stats-navy-iota-50.vercel.app/api?username=jikwxng&show_icons=true&count_private=true&theme=github_dark_dimmed&show=reviews,prs_merged&hide_border=true">
+
+<br/>
+
+## 🛠 Tech Stack
+<!-- 기술 아이콘들을 그룹화하여 가독성을 높였습니다 -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,py,nodejs,express,react,vite,tailwind,mongodb,vercel" />
+</p>
+
+<br/>
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-11%20hrs%2047%20mins-blue?style=flat)
 
