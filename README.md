@@ -1,10 +1,15 @@
-<div align="center">
+# 👋 안녕하세요, 최지광입니다
 
-# 👋 안녕하세요, 최지광입니다!
+<br/>
 
-> ## **현재 고등학교에 재학하며 세상을 바꾸는 코드를 씁니다.**<br/>
-> ## [포트폴리오](https://jeeks.my)
+# **현재 고등학교에 재학하며**
+# **세상을 바꾸는 코드를 씁니다**
 
+<br/>
+
+## [🌐 Portfolio | jeeks.my](https://jeeks.my)
+
+<br/>
 <br/>
 
 ## 📊 Quick Stats
@@ -13,12 +18,13 @@
 <br/>
 
 ## 🛠 Tech Stack
-<!-- 기술 아이콘들을 그룹화하여 가독성을 높였습니다 -->
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,py,nodejs,express,react,vite,tailwind,mongodb,vercel" />
 </p>
 
 <br/>
+
+## ⏳ Coding Time
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-11%20hrs%2047%20mins-blue?style=flat)
 
