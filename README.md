@@ -1,10 +1,10 @@
-<div align="center" style="margin-bottom: 100px;">
-  <img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/HTMLCSS.png?raw=true" width="150">
-  <img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/JavaScript.png?raw=true" width="150">
-  <img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/NodeJS.png?raw=true" width="150">
-  <img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/Axios.png?raw=true" width="150">
-  <img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/ExpressJS.png?raw=true" width="150">
-  <img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/MongoDB.png?raw=true" width="150">
+<div align="center" style="margin-bottom: 45px;">
+  <img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/HTMLCSS.png?raw=true" width="130">
+  <img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/JavaScript.png?raw=true" width="130">
+  <img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/NodeJS.png?raw=true" width="130">
+  <img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/Axios.png?raw=true" width="130">
+  <img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/ExpressJS.png?raw=true" width="130">
+  <img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/MongoDB.png?raw=true" width="130">
 </div>
 
 <!--START_SECTION:waka-->
