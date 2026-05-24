@@ -36,19 +36,18 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-JavaScript               2 hrs 40 mins       █████████████████████████   99.07 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+JavaScript               2 hrs 4 mins        █████████████████████████   99.29 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-Antigravity              2 hrs 42 mins       █████████████████████████   100.00 % 
+Antigravity              2 hrs 5 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  2 hrs 42 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 5 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 23/05/2026 03:21:30 UTC
+ Last Updated on 24/05/2026 03:40:27 UTC
 <!--END_SECTION:waka-->
 </div>
