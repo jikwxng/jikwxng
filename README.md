@@ -23,10 +23,10 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                64 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.60 % 
-🌆 Daytime                49 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.65 % 
-🌃 Evening                63 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
-🌙 Night                  332 commits         ████████████████░░░░░░░░░   65.35 % 
+🌞 Morning                70 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
+🌆 Daytime                53 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.96 % 
+🌃 Evening                63 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.84 % 
+🌙 Night                  346 commits         ████████████████░░░░░░░░░   65.04 % 
 ```
 
 
@@ -36,18 +36,17 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-JavaScript               2 hrs 4 mins        █████████████████████████   99.29 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+JavaScript               8 mins              ███████████████████████░░   90.65 % 
+Bash                     0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   09.35 % 
 
 🔥 Editors: 
-Antigravity              2 hrs 5 mins        █████████████████████████   100.00 % 
+Antigravity              9 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  2 hrs 5 mins        █████████████████████████   100.00 % 
+Windows                  9 mins              █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 24/05/2026 03:40:27 UTC
+ Last Updated on 25/05/2026 03:54:55 UTC
 <!--END_SECTION:waka-->
 </div>
