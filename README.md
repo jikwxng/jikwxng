@@ -36,17 +36,16 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-JavaScript               8 mins              ███████████████████████░░   90.65 % 
-Bash                     0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   09.35 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Antigravity              9 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  9 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 27/05/2026 03:54:50 UTC
+ Last Updated on 28/05/2026 03:41:20 UTC
 <!--END_SECTION:waka-->
 </div>
