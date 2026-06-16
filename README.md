@@ -20,32 +20,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-18%20hrs%2017%20mins-blue?style=flat)
 
-**I'm a Night 🦉** 
 
-```text
-🌞 Morning                70 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
-🌆 Daytime                53 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.96 % 
-🌃 Evening                63 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.84 % 
-🌙 Night                  346 commits         ████████████████░░░░░░░░░   65.04 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Seoul
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-
- Last Updated on 15/06/2026 04:21:14 UTC
+ Last Updated on 16/06/2026 04:13:28 UTC
 <!--END_SECTION:waka-->
 </div>
