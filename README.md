@@ -38,40 +38,23 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-JavaScript               41 mins             ██████████████░░░░░░░░░░░   56.88 % 
-VBScript                 16 mins             ██████░░░░░░░░░░░░░░░░░░░   22.16 % 
-Batchfile                8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
-PowerShell               5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
-JSON                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+JavaScript               7 mins              █████████████████████████   98.32 % 
+PowerShell               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
 
 🔥 Editors: 
-VS Code                  1 hr 12 mins        █████████████████████████   100.00 % 
+VS Code                  7 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 12 mins        █████████████████████████   100.00 % 
+Windows                  7 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 mins (12.82%)
-
-✍️ 0 lines written by AI, 538 lines written by hand (0.0% AI-written)
-
-🔤 0 Input Tokens, 0 Output Tokens
-
-💵 $0.00 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 3 AI Prompts
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 17 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 13/09/2026 03:33:05 UTC
+ Last Updated on 14/09/2026 03:42:55 UTC
 <!--END_SECTION:waka-->
 </div>
