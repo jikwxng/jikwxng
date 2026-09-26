@@ -18,7 +18,7 @@
 
 ## ⏳ Coding Time
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-21%20hrs%2017%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-21%20hrs%2042%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2024%20mins-blue?style=flat)
 
@@ -38,13 +38,14 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-JavaScript               10 mins             █████████████████████████   100.00 % 
+JavaScript               27 mins             ████████████████████░░░░░   78.10 % 
+VBScript                 7 mins              █████░░░░░░░░░░░░░░░░░░░░   21.90 % 
 
 🔥 Editors: 
-VS Code                  10 mins             █████████████████████████   100.00 % 
+VS Code                  34 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  10 mins             █████████████████████████   100.00 % 
+Windows                  34 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -54,6 +55,6 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 25/09/2026 03:46:36 UTC
+ Last Updated on 26/09/2026 03:52:31 UTC
 <!--END_SECTION:waka-->
 </div>
