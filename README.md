@@ -38,14 +38,13 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-JavaScript               18 mins             ██████████████████░░░░░░░   71.08 % 
-VBScript                 7 mins              ███████░░░░░░░░░░░░░░░░░░   28.92 % 
+JavaScript               2 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  26 mins             █████████████████████████   100.00 % 
+VS Code                  2 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  26 mins             █████████████████████████   100.00 % 
+Windows                  2 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -55,6 +54,6 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 02/10/2026 04:24:29 UTC
+ Last Updated on 03/10/2026 04:06:45 UTC
 <!--END_SECTION:waka-->
 </div>
