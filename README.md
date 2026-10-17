@@ -18,7 +18,7 @@
 
 ## ⏳ Coding Time
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-22%20hrs%2054%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-23%20hrs%207%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2024%20mins-blue?style=flat)
 
@@ -38,14 +38,16 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-JavaScript               1 hr 8 mins         ████████████████████████░   97.92 % 
-Batchfile                1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
+JavaScript               1 hr 9 mins         █████████████████████░░░░   83.33 % 
+JSON                     8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.13 % 
+HTML                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
+Batchfile                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
 
 🔥 Editors: 
-VS Code                  1 hr 10 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 23 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 10 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 23 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -55,6 +57,6 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 16/10/2026 03:26:30 UTC
+ Last Updated on 17/10/2026 03:17:01 UTC
 <!--END_SECTION:waka-->
 </div>
