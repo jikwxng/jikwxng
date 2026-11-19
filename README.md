@@ -5,7 +5,7 @@
 
 ## 📊 Quick Stats
 <p align="center">
-  <img src="https://github-readme-stats-navy-iota-50.vercel.app/api?username=jikwxng&show_icons=true&count_private=true&theme=github_dark_dimmed&show=reviews,prs_merged&hide_border=true">
+  <img src="https://github-readme-stats-navy-iota-50.vercel.app/api?username=jikwxng&show_icons=true&count_private=true&theme=github_dark_dimmed&bg_color=00000000&show=reviews,prs_merged&hide_border=true">
 </p>
 <br/>
 
